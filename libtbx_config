@@ -1,0 +1,6 @@
+{
+  "modules_required_for_build": ["boost", "boost_adaptbx", "scitbx",
+  				 "dials"],
+  "modules_required_for_use": ["boost_adaptbx", "dials"],
+  "optional_modules": [],
+}
